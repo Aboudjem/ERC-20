@@ -1,3 +1,5 @@
+> **Archived on 2026-11: a 2021 learning exercise, not maintained.**
+
 # Simple Typescript ERC20 Project
 tasks:
 
